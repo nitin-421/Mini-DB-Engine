@@ -1,0 +1,10 @@
+^D:\SDE\MERN\MINI-DB-ENGINE\BUILD\CMAKEFILES\B80A1EDB445BDB0FBF78003E95C0DAE7\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SD:/SDE/MERN/Mini-DB-Engine -BD:/SDE/MERN/Mini-DB-Engine/build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file D:/SDE/MERN/Mini-DB-Engine/build/MiniDatabaseEngine.slnx
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

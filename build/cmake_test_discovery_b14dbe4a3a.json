@@ -1,0 +1,49 @@
+{
+  "tests": 5,
+  "name": "AllTests",
+  "testsuites": [
+    {
+      "name": "Parser",
+      "tests": 3,
+      "testsuite": [
+        {
+          "name": "ParsesCreate",
+          "file": "D:\\SDE\\MERN\\Mini-DB-Engine\\tests\\ParserTest.cpp",
+          "line": 3
+        },
+        {
+          "name": "ParsesCrudAndWhere",
+          "file": "D:\\SDE\\MERN\\Mini-DB-Engine\\tests\\ParserTest.cpp",
+          "line": 4
+        },
+        {
+          "name": "RejectsInvalidSql",
+          "file": "D:\\SDE\\MERN\\Mini-DB-Engine\\tests\\ParserTest.cpp",
+          "line": 5
+        }
+      ]
+    },
+    {
+      "name": "Storage",
+      "tests": 1,
+      "testsuite": [
+        {
+          "name": "SavesAndLoads",
+          "file": "D:\\SDE\\MERN\\Mini-DB-Engine\\tests\\StorageTest.cpp",
+          "line": 4
+        }
+      ]
+    },
+    {
+      "name": "Database",
+      "tests": 1,
+      "testsuite": [
+        {
+          "name": "Crud",
+          "file": "D:\\SDE\\MERN\\Mini-DB-Engine\\tests\\DatabaseTest.cpp",
+          "line": 4
+        }
+      ]
+    }
+  ]
+}

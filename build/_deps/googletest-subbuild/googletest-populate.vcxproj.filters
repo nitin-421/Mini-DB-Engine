@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="18.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="D:\SDE\MERN\Mini-DB-Engine\build\_deps\googletest-subbuild\CMakeFiles\4403b6b5a1d7d5edf8753c2b7deb427a\googletest-populate-mkdir.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\SDE\MERN\Mini-DB-Engine\build\_deps\googletest-subbuild\CMakeFiles\4403b6b5a1d7d5edf8753c2b7deb427a\googletest-populate-download.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\SDE\MERN\Mini-DB-Engine\build\_deps\googletest-subbuild\CMakeFiles\4403b6b5a1d7d5edf8753c2b7deb427a\googletest-populate-update.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\SDE\MERN\Mini-DB-Engine\build\_deps\googletest-subbuild\CMakeFiles\4403b6b5a1d7d5edf8753c2b7deb427a\googletest-populate-patch.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\SDE\MERN\Mini-DB-Engine\build\_deps\googletest-subbuild\CMakeFiles\4403b6b5a1d7d5edf8753c2b7deb427a\googletest-populate-configure.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\SDE\MERN\Mini-DB-Engine\build\_deps\googletest-subbuild\CMakeFiles\4403b6b5a1d7d5edf8753c2b7deb427a\googletest-populate-build.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\SDE\MERN\Mini-DB-Engine\build\_deps\googletest-subbuild\CMakeFiles\4403b6b5a1d7d5edf8753c2b7deb427a\googletest-populate-install.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\SDE\MERN\Mini-DB-Engine\build\_deps\googletest-subbuild\CMakeFiles\4403b6b5a1d7d5edf8753c2b7deb427a\googletest-populate-test.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\SDE\MERN\Mini-DB-Engine\build\_deps\googletest-subbuild\CMakeFiles\12323a7f266b3aaf74c02f0168cdf05a\googletest-populate-complete.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\SDE\MERN\Mini-DB-Engine\build\_deps\googletest-subbuild\CMakeFiles\d03a5b36ae8d304c7844c4a960fa1eb0\googletest-populate.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\SDE\MERN\Mini-DB-Engine\build\_deps\googletest-subbuild\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="D:\SDE\MERN\Mini-DB-Engine\build\_deps\googletest-subbuild\CMakeFiles\googletest-populate" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{3596E73F-D060-3639-89B0-F13512C02623}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

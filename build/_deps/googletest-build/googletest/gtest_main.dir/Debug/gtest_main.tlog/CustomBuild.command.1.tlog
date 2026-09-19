@@ -1,0 +1,10 @@
+^D:\SDE\MERN\MINI-DB-ENGINE\BUILD\_DEPS\GOOGLETEST-SRC\GOOGLETEST\CMAKELISTS.TXT
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SD:/SDE/MERN/Mini-DB-Engine -BD:/SDE/MERN/Mini-DB-Engine/build --check-stamp-file D:/SDE/MERN/Mini-DB-Engine/build/_deps/googletest-build/googletest/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

@@ -1,0 +1,3 @@
+D:/SDE/MERN/Mini-DB-Engine/build/_deps/googletest-subbuild/CMakeFiles/googletest-populate.dir
+D:/SDE/MERN/Mini-DB-Engine/build/_deps/googletest-subbuild/CMakeFiles/ALL_BUILD.dir
+D:/SDE/MERN/Mini-DB-Engine/build/_deps/googletest-subbuild/CMakeFiles/ZERO_CHECK.dir

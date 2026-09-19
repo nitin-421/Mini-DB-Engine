@@ -1,0 +1,5 @@
+if(EXISTS "D:/SDE/MERN/Mini-DB-Engine/build/minidb_tests_e3b0c442_Debug_tests.cmake")
+  include("D:/SDE/MERN/Mini-DB-Engine/build/minidb_tests_e3b0c442_Debug_tests.cmake")
+else()
+  add_test(minidb_tests_NOT_BUILT minidb_tests_NOT_BUILT)
+endif()

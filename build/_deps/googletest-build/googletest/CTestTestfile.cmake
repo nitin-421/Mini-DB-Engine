@@ -1,0 +1,6 @@
+# CMake generated Testfile for 
+# Source directory: D:/SDE/MERN/Mini-DB-Engine/build/_deps/googletest-src/googletest
+# Build directory: D:/SDE/MERN/Mini-DB-Engine/build/_deps/googletest-build/googletest
+# 
+# This file includes the relevant testing commands required for 
+# testing this directory and lists subdirectories to be tested as well.

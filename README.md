@@ -16,9 +16,9 @@ GoogleTest is downloaded during configuration when tests are enabled. To build w
 
 ```sql
 CREATE TABLE users (id INT, name TEXT);
-INSERT INTO users VALUES (1, 'Nitin');
+INSERT INTO users VALUES (1, 'Nitin1');
 SELECT * FROM users WHERE id = 1;
-UPDATE users SET name = 'Rahul' WHERE id = 1;
+UPDATE users SET name = 'Nitin2' WHERE id = 1;
 DELETE FROM users WHERE id = 1;
 ```
 
